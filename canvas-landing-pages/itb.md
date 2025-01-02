@@ -9,7 +9,11 @@ This module will demonstrate a real-world application of CompTIA Network+ skills
 
 ## Content
 
-***Coming soon***
+***Coming soon. Will address the following learning objectives:***
+
+1. Analyze a real-world networking scenario to identify key challenges and solutions.
+2. Discuss how networking concepts apply to practical IT environments.
+3. Relate a case study to foundational networking knowledge.
 
 ## References
 
