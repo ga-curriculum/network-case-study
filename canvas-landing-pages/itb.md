@@ -13,4 +13,4 @@ This module will demonstrate a real-world application of CompTIA Network+ skills
 
 ## References
 
-📖 [Reference Materials](./references/README.md)
+📖 [Reference Materials](../references/README.md)
