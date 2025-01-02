@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Network+ Case Study</span>
 </h1>
 
 ## About
@@ -49,8 +49,8 @@ tktk If there is not a deployed site related to this module this section and all
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/network-case-study/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/network-case-study/canvas-landing-pages/fallback.html)
 
 ### Resources
 
