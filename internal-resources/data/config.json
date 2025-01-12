@@ -18,7 +18,18 @@
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
-      "microlessons": [],
+      "microlessons": [
+        {
+          "friendlyName": "Network+ Case Study",
+          "dirName": "network-case-study",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        }
+      ],
       "isHeaderShown": true,
       "isHeaderModuleNavShown": true,
       "isHeaderHomeNavShown": true,
@@ -48,39 +59,9 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Setup",
-          "dirName": "setup",
+          "friendlyName": "Network+ Case Study",
+          "dirName": "network-case-study",
           "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Concepts",
-          "dirName": "concepts",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Microlesson 01",
-          "dirName": "microlesson-01",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Microlesson 02",
-          "dirName": "microlesson-02",
-          "type": "Level Up content",
           "skill": "",
           "learningObjective": "",
           "videoUrl": "",
