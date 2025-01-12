@@ -9,11 +9,10 @@ This module will demonstrate a real-world application of CompTIA Network+ skills
 
 ## Content
 
-***Coming soon. This content will address the following learning objectives:***
-
-1. Analyze a real-world networking scenario to identify key challenges and solutions.
-2. Discuss how networking concepts apply to practical IT environments.
-3. Relate a case study to foundational networking knowledge.
+| Lesson | Est. Delivery Time | Skills |
+| ------ |:------------------:| ------ |
+| [Network+ Case Study](../network-case-study/README.md) | 15 min | Set up the development environment. |
+| **Total content**                                   | 15 min |                                     |
 
 ## References
 
