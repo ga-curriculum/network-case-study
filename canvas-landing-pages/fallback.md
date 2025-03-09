@@ -12,8 +12,8 @@ This module will demonstrate a real-world application of CompTIA Network+ skills
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Network+ Case Study](../network-case-study/README.md) | 15 min | Set up the development environment. |
-| **Total content**                                   | 15 min |                                     |
+| [Network+ Case Study](../network-case-study/README.md) | 30 min | Set up the development environment. |
+| **Total content**                                   | 30 min |                                     |
 
 ## References
 
