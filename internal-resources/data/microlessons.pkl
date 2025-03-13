@@ -2,9 +2,9 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-networkCaseStudy = new Template.Microlesson {
-  friendlyName = "Network+ Case Study"
-  dirName = "network-case-study"
+theGitHubDdosAttackOf2018 = new Template.Microlesson {
+  friendlyName = "The GitHub DDoS Attack of 2018"
+  dirName = "the-github-ddos-attack-of-2018"
   type = "Content"
   videoUrl = ""
 }

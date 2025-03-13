@@ -23,7 +23,7 @@ courses {
     // Do not remove this fallback course!
     name = "itb"
     microlessons {
-      mls.networkCaseStudy
+      mls.theGitHubDdosAttackOf2018
     }
   }
   new {
@@ -31,7 +31,7 @@ courses {
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.networkCaseStudy
+      mls.theGitHubDdosAttackOf2018
     }
   }
 }

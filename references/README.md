@@ -5,6 +5,4 @@
 
 ## Lesson references
 
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
+- [GitHub Blog - February 28th DDoS Incident Report](https://github.blog/news-insights/company-news/ddos-incident-report/)

@@ -5,14 +5,14 @@
 
 ## About
 
-This module will demonstrate a real-world application of CompTIA Network+ skills through a high-profile IT incident. This case study illustrates how fundamental IT skills could have prevented or mitigated major technical failures.
+This module will demonstrate a real-world application of CompTIA Network+ skills through a high-profile IT incident targeting GitHub. This case study illustrates how fundamental IT skills could have prevented or mitigated major technical failures.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Network+ Case Study](./network-case-study/README.md) | 30 min | Set up the development environment. |
-| **Total content**                                   | 30 min |                                     |
+| [The GitHub DDoS Attack of 2018](./the-github-ddos-attack-of-2018/README.md) | 30 min | Review a case study of a 2018 DDoS attack on GitHub. |
+| **Total content**                                                            | 30 min |                                                      |
 
 ## References
 
