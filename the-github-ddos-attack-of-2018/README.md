@@ -74,3 +74,19 @@ However, we can build a more secure and resilient digital future by investing in
 From understanding the basics of network operations to implementing advanced security strategies, the CompTIA Network+ curriculum provides a comprehensive foundation for success in the field of networking. By mastering these skills, aspiring professionals can respond to incidents like the GitHub attack and proactively work to prevent them.
 
 So, let this case study serve as a reminder of the critical importance of fundamental network skills and a call to action for all those passionate about building a safer digital world. With the right knowledge, skills, and dedication, we can rise to the challenge of securing our networks against even the most daunting threats.
+
+<div class="activity group-exercise">
+  <h2 class="title">Responding to a DDoS Attack</h2>
+  <span class="minutes">10 min</span>
+</div>
+
+In a small group, you will briefly analyze the following DDoS scenario, and apply your current understanding of the CIA triad and network security fundamentals to mitigate the attack.
+
+### Scenario
+
+A popular online shopping site experiences an outage due to a sudden massive surge of traffic. This is quickly identified as a DDoS attack.
+
+- Briefly discuss how each part of the CIA triad (Confidentiality, Integrity, Availability) is affected by this attack.
+- Suggest 2-3 strategies that could help reduce the impact.
+
+We'll regroup and a few groups will share their best mitigation strategy and explain briefly why it step helps restore or maintain security.
